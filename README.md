@@ -1,2 +1,0 @@
-# KoalaBoxCo
-KoalaBox.co
